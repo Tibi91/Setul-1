@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Documents\\GitHub\\Setul-1\\Set-1-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BA2432-B2DF-4371-A746-80E68C8E22F4}|Set-1-6\\Set-1-6.csproj|c:\\users\\david\\documents\\github\\setul-1\\set-1-6\\set-1-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BA2432-B2DF-4371-A746-80E68C8E22F4}|Set-1-6\\Set-1-6.csproj|solutionrelative:set-1-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Documents\\GitHub\\Setul-1\\Set-1-6\\Set-1-6\\Program.cs",
+              "RelativeDocumentMoniker": "Set-1-6\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\Documents\\GitHub\\Setul-1\\Set-1-6\\Set-1-6\\Program.cs",
+              "RelativeToolTip": "Set-1-6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:44:28.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

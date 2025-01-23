@@ -1,0 +1,7 @@
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\bin\Debug\Set-1-18.exe.config
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\bin\Debug\Set-1-18.exe
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\bin\Debug\Set-1-18.pdb
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\obj\Debug\Set-1-18.csproj.AssemblyReference.cache
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\obj\Debug\Set-1-18.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\obj\Debug\Set-1-18.exe
+C:\Users\david\Documents\GitHub\Setul-1\Set-1-18\Set-1-18\obj\Debug\Set-1-18.pdb

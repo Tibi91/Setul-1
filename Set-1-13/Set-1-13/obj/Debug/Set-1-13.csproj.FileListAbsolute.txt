@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\Set-1-13\Set-1-13\bin\Debug\Set-1-13.exe.config
+C:\Users\david\source\repos\Set-1-13\Set-1-13\bin\Debug\Set-1-13.exe
+C:\Users\david\source\repos\Set-1-13\Set-1-13\bin\Debug\Set-1-13.pdb
+C:\Users\david\source\repos\Set-1-13\Set-1-13\obj\Debug\Set-1-13.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Set-1-13\Set-1-13\obj\Debug\Set-1-13.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Set-1-13\Set-1-13\obj\Debug\Set-1-13.exe
+C:\Users\david\source\repos\Set-1-13\Set-1-13\obj\Debug\Set-1-13.pdb
